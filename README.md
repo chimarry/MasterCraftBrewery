@@ -1,7 +1,7 @@
 # Master Craft Brewery
 --------------
 
-Project developed for educational purposes, by a team of three students. It is a three-layered web application, implemented using ASP.NET Core, ReactJS, Keycloak, and MySQL technologies. 
+Project developed for educational purposes. It is a three-layered web application, implemented using ASP.NET Core, ReactJS, Keycloak, and MySQL technologies. 
 Video demonstrating some of the features is shown below.  
 [![MCB](./video.png)](https://youtu.be/OEtuPdPJEvI).  
 ## Features
