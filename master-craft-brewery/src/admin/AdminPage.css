@@ -1,0 +1,34 @@
+:root {
+    --login-font-color: white;
+    --login-main-color: #0c0c0c;
+    --login-secondary-color: #1c1c1c;
+}
+
+.login-container {
+    background-color: var(--login-main-color);
+    color: var(--login-font-color);
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 4em;
+}
+
+.admin-navmenu {
+    padding: 0;
+    margin: 0;
+    min-height: inherit;
+    background-color: var(--login-secondary-color);
+}
+
+.admin-content {
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width:768px) {
+    .login-container {
+        height: 70vh;
+    }
+}

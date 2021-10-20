@@ -1,0 +1,8 @@
+{
+  "host": "smtp.mailgun.org",
+  "Port": 587,
+  "username": "xxxxxxxxxx@sandboxxxxxxxxxxxxxxxxxc7bd978d82f147c.mailgun.org",
+  "password": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxx-xxxxxxxx",
+  "sender": "marija.milica.njegos@gmail.com",
+  "receipient": "somemail"
+}
